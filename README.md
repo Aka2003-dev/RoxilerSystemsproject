@@ -2,6 +2,7 @@
 
 ## 🛠️ Installation & Setup
 
+```sh
 npm install                     # Install root dependencies  
 cd frontend && npm install      # Install frontend dependencies  
 cd ../backend && npm install    # Install backend dependencies  
