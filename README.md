@@ -2,10 +2,11 @@
 
 ## 🛠️ Installation & Setup
 
-npm install
-cd frontend && npm install
-cd ../backend && npm install
-cd ..
-npm run dev   (Run the Project (Frontend & Backend Together))
+npm install                     # Install root dependencies  
+cd frontend && npm install      # Install frontend dependencies  
+cd ../backend && npm install    # Install backend dependencies  
+cd ..                           # Navigate back to project root  
+
+npm run dev                     # Run the Project (Frontend & Backend Together)
 
 
