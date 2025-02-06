@@ -11,3 +11,4 @@ cd ..                           # Navigate back to project root
 npm run dev                     # Run the Project (Frontend & Backend Together)
 
 
+![Project Screenshot](demo.png)
